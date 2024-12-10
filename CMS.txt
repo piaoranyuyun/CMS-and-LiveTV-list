@@ -21,4 +21,3 @@ https://xsd.sdzyapi.com/api.php/provide/vod/
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://live.fanmingming.com/e.xml
-smb://192.168.50.43/ShareTV
