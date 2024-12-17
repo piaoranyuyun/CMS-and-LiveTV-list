@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/playlist.m3u8
+smb://192.168.50.1/router/video/电视剧/电影
 https://api.guangsuapi.com/api.php/provide/vod/
 https://api.okzy.org/api.php/provide/vod/
 https://api.tiankongapi.com/api.php/provide/vod/
