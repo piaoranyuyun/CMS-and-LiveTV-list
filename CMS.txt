@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/playlist.m3u8
+
 smb://192.168.50.1/router/video/电视剧/电影
 https://api.guangsuapi.com/api.php/provide/vod/
 https://api.okzy.org/api.php/provide/vod/
@@ -19,25 +19,26 @@ https://www.hongniuzy2.com/api.php/provide/vod/
 https://www.mdzyapi.com/api.php/provide/vod/
 https://xsd.sdzyapi.com/api.php/provide/vod/
 
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://live.iptv365.org/live.m3u
 
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://live.fanmingming.com/e.xml
 https://epg.112114.xyz/pp.xml
 
-fanmingming	https://live.fanmingming.com/tv/m3u/ipv6.m3u	IPV6	✔️	✔️
-fanmingming	https://live.fanmingming.com/tv/m3u/itv.m3u	IPV4	✔️	✔️
-vbskycn	https://live.zhoujie218.top/tv/iptv6.m3u	IPV6	❌	✔️
-vbskycn	https://live.zhoujie218.top/tv/iptv4.m3u	IPV4	❌	✔️
-AKTV	http://aktv.top/live.m3u	IPV4	❌	❌
-YanG-1989	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u	IPV6	✔️	✔️
-YanG-1989	https://tv.iill.top/m3u/Gather	IPV4/6	✔️	✔️
-YueChan	https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u	IPV6	❌	✔️
-Kimentanm	https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u	IPV4/6	✔️	✔️
-BurningC4	https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	IPV4	❌	❌
-joevess	https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u	IPV4	❌	✔️
-传说引导页	http://tot.totalh.net/tttt.txt	IPV4	❌	❌
-Ftindy	https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u	IPV6	✔️	✔️
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://live.fanmingming.com/tv/m3u/itv.m3u
+https://live.zhoujie218.top/tv/iptv6.m3u
+https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+https://live.zhoujie218.top/tv/iptv4.m3
+
+YanG-1989	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+YueChan	https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+Kimentanm	https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+BurningC4	https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	
+joevess	https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
 iptv-sources	https://m3u.ibert.me/fmml_ipv6.m3u
 
 [
