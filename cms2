@@ -4,47 +4,37 @@
   [3] = "http://cj.bajiecaiji.com/inc/apijson_vod.php"
   [4] = "http://cj.ffzyapi.com/api.php/provide/vod/"
   [5] = "http://cj.lziapi.com/api.php/provide/vod/"
-  [6] = "http://fhapi9.com/api.php/provide/vod/"
   [7] = "http://jinyingzy.com/provide/vod/"
-  [8] = "http://lbapiby.com/api.php/provide/vod/at/json"
+
   [9] = "http://sdzyapi.com/api.php/provide/vod/"
-  [10] = "http://zy.xiaomaomi.cc/api.php/provide/vod/"
-  [11] = "https://aosikazy.com/api.php/provide/vod/"
+
+
   [12] = "https://api.apibdzy.com/api.php/provide/vod/"
-  [13] = "https://api.apilyzy.com/api.php/provide/vod/"
+
   [14] = "https://api.guangsuapi.com/api.php/provide/vod/"
-  [15] = "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
-  [16] = "https://api.maozyapi.com/inc/apijson_vod.php"
-  [17] = "https://api.sexnguon.com/api.php/provide/vod/"
+
   [18] = "https://api.tiankongapi.com/api.php/provide/vod/"
   [19] = "https://api.wujinapi.cc/api.php/provide/vod/"
   [20] = "https://api.wujinapi.com/api.php/provide/vod/"
   [21] = "https://api.wujinapi.net/api.php/provide/vod/"
   [22] = "https://api.yparse.com/api/json"
-  [23] = "https://apittzy.com/api.php/provide/vod/"
+
   [24] = "https://caiji.kczyapi.com/api.php/provide/vod/"
-  [25] = "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+
   [26] = "https://cj.lziapi.com/api.php/provide/vod/"
-  [27] = "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
   [28] = "https://cj.vodimg.top/api.php/provide/vod/"
   [29] = "https://ckzy.me/api.php/provide/vod/"
   [30] = "https://collect.wolongzyw.com/api.php/provide/vod/"
   [31] = "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"
-  [32] = "https://lbapi9.com/api.php/provide/vod/at/json"
+
   [33] = "https://lovedan.net/api.php/provide/vod/"
   [34] = "https://m3u8.apiyhzy.com/api.php/provide/vod/"
   [35] = "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
   [36] = "https://p2100.net/api.php/provide/vod/"
   [37] = "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
-  [38] = "https://slapibf.com/api.php/provide/vod/"
+
   [39] = "https://subocaiji.com/api.php/provide/vod/"
   [40] = "https://www.911ysw.top/tianyi.php/provide/vod/"
-  [41] = "https://www.911ysw.top/tianyi.php/provide/vod/at/json"
-  [42] = "https://www.gdlsp.com/api/json.php"
+
   [43] = "https://www.hongniuzy2.com/api.php/provide/vod/"
-  [44] = "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
   [45] = "https://www.huyaapi.com/api.php/provide/vod/"
-  [46] = "https://www.kxgav.com/api/json.php"
-  [47] = "https://www.msnii.com/api/json.php"
-  [48] = "https://www.pgxdy.com/api/json.php"
-  [49] = "https://www.xrbsp.com/api/json.php"
