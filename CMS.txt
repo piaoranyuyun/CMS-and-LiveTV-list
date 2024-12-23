@@ -145,7 +145,7 @@ iptv-sources	https://m3u.ibert.me/fmml_ipv6.m3u
   [1] = "http://api.tiankongapi.com/api.php/provide/vod/"
   [2] = "http://api.xinlangapi.com/xinlangapi.php/provide/vod/"
   [3] = "http://cj.bajiecaiji.com/inc/apijson_vod.php"
-  [4] = "http://cj.ffzyapi.com/api.php/provide/vod/"
+  [4] = "https://api.ffzyapi.com/api.php/provide/vod/"
   [5] = "http://cj.lziapi.com/api.php/provide/vod/"
   [7] = "http://jinyingzy.com/provide/vod/"
 
