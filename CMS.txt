@@ -1,4 +1,8 @@
-smb://192.168.50.1/router/video/电视剧/电影
+smb://192.168.50.1/router/video/电视剧
+http://ysm.tkbot.fun/api.php/provide/vod/
+http://4kdyg.fun/api.php/provide/vod/
+https://www.ecmys.com/api.php/provide/vod/
+https://zy.xiaomaomi.cc/api.php/provide/vod/
 https://api.guangsuapi.com/api.php/provide/vod/
 https://api.okzy.org/api.php/provide/vod/
 https://api.tiankongapi.com/api.php/provide/vod/
