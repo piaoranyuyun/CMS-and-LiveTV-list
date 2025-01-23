@@ -1,0 +1,12 @@
+
+[0] = "https://live.iptv365.org/live.m3u"
+  [1] = "https://live.zhoujie218.top/tv/iptv4.m3u"
+  [2] = "https://live.zhoujie218.top/tv/iptv6.m3u"
+  [3] = "https://m3u.ibert.me/fmml_ipv6.m3u"
+  [4] = "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u"
+  [5] = "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+  [6] = "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+  [7] = "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+  [8] = "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
+  [9] = "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+  [10] = "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u"
